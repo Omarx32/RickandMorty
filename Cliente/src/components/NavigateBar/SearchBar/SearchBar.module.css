@@ -1,0 +1,26 @@
+.searchBar {
+    position: relative;
+   
+    left: 85%;
+    width: 200px;
+    height: 30px;
+    margin-right: 25px;
+}
+
+.input {
+   display: center;
+    background-color: aliceblue;
+    left: 0;
+    width: 60;
+    height: 100;
+}
+
+.btn {
+    display: center;
+    background-color: #0000;
+    color: white;
+    right: 0;
+    width: 5;
+    height: 20;
+    border-radius: 10px;
+}

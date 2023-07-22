@@ -1,0 +1,19 @@
+:root {
+  font-family: 'Instrument Serif', serif;
+  line-height: 1.8;
+  font-weight: 1000;
+
+  color-scheme: light dark;
+  color: #898580 ;
+  background-image: url(https://moewalls.com/wp-content/uploads/2023/06/rick-and-morty-vs-monsters-thumb.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+}
